@@ -1,0 +1,47 @@
+.souctaeg{
+    margin-left: 152px;
+    background-color: white;
+    border-radius: 4px;
+    width: 791px;
+    padding: 1px 33px 10px 14px;
+    margin-top: 20px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+hr{
+    width: 433px;
+    height: 0px;
+    margin-top: 34px;
+    background-color: rgb(207, 185, 149);
+}
+.Titre{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 36px;
+    color: rgb(207, 185, 149);
+}
+
+.main{
+    display: flex;
+    justify-content: space-aro
+}
+.top{    margin-left: 78px;
+    background-color: white;
+    padding: 0px 40px 10px 30px;
+    margin-top: 22px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.like{
+    margin-left: 177px;
+    margin-top: 26px;
+    display: flex;
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 18px;
+}

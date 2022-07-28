@@ -1,0 +1,14 @@
+.categorie{
+    margin-left: 102px;
+}
+.block{
+    display: flex;
+
+}
+button{
+    width: 200px;
+    margin-top: 20px;
+    height: 37px;
+    margin-right: 67px;
+    color: white;
+}
