@@ -3,7 +3,7 @@ export default function Soucategorie(){
     return(
         <div>
         <div className="souctaeg">
-            <ul>
+            <ul className="liste">
                 <li style={{backgroundColor: "rgb(87, 230, 144)",borderRadius: "10px",
     padding:"0 16px" ,color: "white"}}>Social jokes</li>
                 <li style={{color:"rgb(255, 145, 91)"}}>TRENDING</li>
