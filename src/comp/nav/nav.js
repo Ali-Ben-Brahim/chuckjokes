@@ -21,7 +21,10 @@ function Nav() {
                               MEIN BEREICH
                             <img src="./path_2@2x.png" style={{width: "15px",height: "10px"}}/>
                         </button>
+
                         <div class="dropdown-content">
+                        <div className="corner"></div>
+
                             <a href="#">My published jokes</a>
                             <hr/>
                             <a href="#">My saved jokes</a>
