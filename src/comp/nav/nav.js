@@ -23,12 +23,12 @@ function Nav() {
                         </button>
                         <div class="dropdown-content">
                             <a href="#">My published jokes</a>
-                        
+                            <hr/>
                             <a href="#">My saved jokes</a>
-                        
+                            <hr/>
                             <a href="#">Account Information</a>
-                        
-                            <a href="#">Publish new joke</a>                                      
+                            <hr/>     
+                            <a href="#">Publish new joke</a> 
                         </div>
                 </div> 
               </a>
