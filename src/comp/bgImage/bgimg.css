@@ -1,60 +1,43 @@
-.hero-image {
+ .hero-image {
     background-image: url("/public/bgimg.png");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
-  }
+}
   
-  .hero-text {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    justify-items: center;
-  }
-  .title{
-    width: 350px;
-    height: 72px;
-    margin: 0 174px 0 57px;
-    font-family: Montserrat;
-    line-height: 1.5;
-    letter-spacing: normal;
-    font-size: 48px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    color:#cfb995;
-    text-align: center;
-  }
-  .soustitle{
-    width: 350px;
-    height: 72px;
-    margin: 0 174px 0 57px;
-    font-family: Montserrat;
-    line-height: 1.5;
-    letter-spacing: normal;
-    font-size: 22px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    color:white;
-    text-align: center; 
-  }
-  input{
-   
-    background: transparent;
-    padding: 15px 13px;
-    
-    background: url('/public/search.png') no-repeat scroll 7px 7px;
-    background-size: 20px;
-background-position: right;
-
-    color: white;
-    width: 350px;
-  }
+.hero-text {
+  color: white;
+  text-align: center;
+}
+.title{
+  font-family: Montserrat;
+  line-height: 1.5;
+  letter-spacing: normal;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  color:#cfb995;
+}
+.soustitle{
+  font-family: Montserrat;
+  line-height: 1.5;
+  letter-spacing: normal;
+  font-size: 22px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  color:white;
+}
+input{
+  background: transparent;
+  padding: 15px 13px;    
+  background: url('/public/search.png') no-repeat scroll 7px 7px;
+  background-size: 20px;
+  background-position: right;
+  color: white;
+  width: 350px;
+}
   
